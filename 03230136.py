@@ -1,10 +1,13 @@
-#
+# https://github.com/Kinzangwangmo/03230136_BIA101_CAP3
 # Kinzang Wangmo
-#BBI'B'
-#03230136
-#References
+# BBI'B'
+# 03230136
 
-#SOLUTION
+# References
+# 1.LeMaster Tech. (2021, December 30). How to Read from a text .txt file in Python! Pulling in data and filtering and modifying the info! [Video]. YouTube. https://www.youtube.com/watch?v=DCaKj3eIrro
+# 2.TinkerAssist. (2021, January 10). Python Tutorial - How to Read in Values From a .txt File [Video]. YouTube. https://www.youtube.com/watch?v=1Y-Zsdf66JU
+
+# SOLUTION
 # Total Sum = 224610
 
 def read_input():
