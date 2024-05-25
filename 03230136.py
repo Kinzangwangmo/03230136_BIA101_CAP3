@@ -15,7 +15,7 @@ def read_input():
 
   Returns:
     A string containing the contents of the file, or an empty string if the file is not found."""
-  try:
+  try: # The try block is being used to handle any potential errors that might occur when attempting to open the file "136.txt".
     with open("136.txt", "r") as f:
       content = f.read()
       return content
