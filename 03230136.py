@@ -10,6 +10,7 @@
 # SOLUTION
 # Total Sum = 224610
 
+# Reading a input(136.txt)
 def read_input():
   """Reads the contents of the '136.txt' file.
 
@@ -32,6 +33,7 @@ if content:
 else:
   print("File '136.txt' not found.")
 
+# getting a total sum of 136.txt
 filename = "136.txt"
 with open(filename, "r") as f:
   total_sum = 0  # Initialize total_sum inside the block
